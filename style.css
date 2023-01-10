@@ -1,5 +1,9 @@
+*{
+    width: 100vh;
+}
 body{
     font-family: 'Montserrat', sans-serif;
+
 }
 header{
     background: #BBBBBB;

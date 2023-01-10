@@ -1,5 +1,9 @@
+*{
+    width: 100vh;
+}
 .banner{
     width: 100%;
+    
 }
 
 .principal{
